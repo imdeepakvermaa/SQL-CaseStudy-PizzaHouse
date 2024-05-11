@@ -4,7 +4,6 @@
 ![page 4](sql_queries_output/4.png)
 ![page 5](sql_queries_output/5.png)
 ![page 6](sql_queries_output/6.png)
-![page 7](sql_queries_output/7.png)
 ![page 8](sql_queries_output/8.png)
 ![page 9](sql_queries_output/9.png)
 ![page 10](sql_queries_output/10.png)

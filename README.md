@@ -1,1 +1,1 @@
-![page 1](pizza_sales_data/1.png)
+![page 1](sql_queries_output/1.png)
